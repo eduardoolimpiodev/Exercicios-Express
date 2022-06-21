@@ -1,0 +1,15 @@
+{
+  "name": "exercicios_express",
+  "version": "1.0.0",
+  "description": "Exercicios de Express",
+  "main": "middleware.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Olimpio",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
